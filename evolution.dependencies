@@ -1,0 +1,26 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "TheMuppets/proprietary_vendor_oneplus_lemonadep",
+    "branch"      : "lineage-21",
+    "target_path" : "vendor/oneplus/lemonadep"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "TheMuppets/proprietary_vendor_oneplus_sm8350-common",
+    "branch"      : "lineage-21",
+    "target_path" : "vendor/oneplus/sm8350-common"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "sshahzaiib/android_device_oneplus_sm8350-common",
+    "branch"      : "lineage-21",
+    "target_path" : "device/oneplus/sm8350-common"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "sshahzaiib/android_kernel_oneplus_sm8350",
+    "branch"      : "lineage-21",
+    "target_path" : "kernel/oneplus/sm8350"
+  },
+]
