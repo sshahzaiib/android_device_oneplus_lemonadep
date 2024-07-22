@@ -22,5 +22,5 @@
     "repository"  : "sshahzaiib/android_kernel_oneplus_sm8350",
     "branch"      : "lineage-21",
     "target_path" : "kernel/oneplus/sm8350"
-  },
+  }
 ]
